@@ -1,0 +1,4 @@
+[
+	// { "keys": ["alt+shift+o"], "command": "side_bar_folders_quick_switch" }
+	{ "keys": ["ctrl+super+o"], "command": "side_bar_folders_quick_switch" }
+]
